@@ -19,7 +19,5 @@ Diagnosis (M = malignant, B = benign) <br>
 
 **For each characteristic three measures are given:** <br>
 a. Mean <br>
-
 b. Standard error <br>
-
 c. Largest/ Worst<br>
