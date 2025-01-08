@@ -3,8 +3,8 @@
 Developed a variety of prediction models during Data Science and Machine Learning
 Internship to solve various problems in health care, finance, education, and retailing.
 
-Projects included:
-Cancer Prediction
+Projects included:__
+Cancer Prediction__
 Chance of Admission Prediction
 Credit Card Default Prediction
 Fish Weight Prediction
