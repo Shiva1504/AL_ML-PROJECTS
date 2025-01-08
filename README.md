@@ -1,7 +1,6 @@
 # AL_ML-PROJECTS
 
-Developed a variety of prediction models during Data Science and Machine Learning
-Internship to solve various problems in health care, finance, education, and retailing.
+Developed a variety of prediction models during to solve various problems in health care, finance, education, and retailing.
 
 Projects included:<br/>
 Cancer Prediction<br/>
